@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on computer version
 - 🌱 I’m currently learning in shanxi university
 - 📫 How to reach me: 1261366510@qq.com
+[Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
+10
