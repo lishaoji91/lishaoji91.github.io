@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on cv
+- 🔭 I’m currently working on computer version
 - 🌱 I’m currently learning in shanxi university
 - 📫 How to reach me: 1261366510@qq.com
